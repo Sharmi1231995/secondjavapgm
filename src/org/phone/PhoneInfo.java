@@ -36,11 +36,13 @@ public class PhoneInfo {
 		d.camera();
 		d.storage();
 		d.osName();
+		System.out.println("123");
+		
+	}
+	
+	
 	}
 	
 	
 	
-	
-	
-	
-}
+
